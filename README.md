@@ -1,2 +1,2 @@
 # Oblig-0
-A reposet
+A reposetory for Oblig-0
